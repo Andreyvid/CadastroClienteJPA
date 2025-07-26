@@ -1,0 +1,9 @@
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
+create table Cliente (id integer not null auto_increment, dataDeNascimento datetime(6), email varchar(255), nome varchar(255), primary key (id)) engine=InnoDB;
