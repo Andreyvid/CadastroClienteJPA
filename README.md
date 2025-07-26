@@ -6,10 +6,8 @@ Este projeto é uma aplicação simples em Java que permite cadastrar, consultar
 
 - Cadastro de clientes com **nome**, **email** e **data de nascimento**.
 - Consulta de cliente por **ID**.
-- Consulta de cliente por **nome (exato)**.
-- Listagem de todos os clientes cadastrados.
 - Exclusão de clientes por **ID**.
-- Interface de menu via **console** para facilitar a interação.
+
 
 ## Tecnologias Utilizadas
 
