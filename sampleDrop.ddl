@@ -1,0 +1,9 @@
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
+drop table if exists Cliente;
