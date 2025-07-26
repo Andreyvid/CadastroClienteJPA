@@ -22,7 +22,6 @@ Este projeto é uma aplicação simples em Java que permite cadastrar, consultar
 
 - Uso de **anotações JPA** para mapear a entidade Cliente.
 - Implementação de **transações** para garantir a integridade dos dados.
-- Consultas **JPQL** para busca por nome e listagem geral.
 - Tratamento básico de exceções e validação de entradas pelo usuário.
 - Persistência usando estratégia de geração automática de ID (**GenerationType.IDENTITY**).
 
